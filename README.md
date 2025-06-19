@@ -3,7 +3,7 @@
 - Microcontroller
 - IoT
 - 🌱 I’m currently learning ...
-- Machine Learning
+- Machine Learning/Data science
 - RICS-V / pure assembly code for Microcontroller
 - 📫 How to reach me
   Email me at Ghazirafi7@gmail.com or rafi.budiawan@binus.ac.id
